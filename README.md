@@ -1,1 +1,1 @@
-# CS370
+# ReminderList
